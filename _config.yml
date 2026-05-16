@@ -1,0 +1,32 @@
+title: "Awesome Dofollow Backlink Directories"
+description: "Directories that give DOFOLLOW backlinks — the kind Google actually counts. Sorted by domain authority."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+
+author:
+  name: Pawel Boguta
+  url: https://batchlisted.com
+
+twitter:
+  card: summary
+
+show_downloads: false
+
+keywords: "dofollow backlink directories, dofollow directory submission sites, free dofollow backlinks, high DA dofollow directories"
+
+# Jekyll generates pretty URLs; default layout applies cayman to README
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - .github/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - _push.cjs
