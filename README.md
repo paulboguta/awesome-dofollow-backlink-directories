@@ -20,6 +20,7 @@
 ## ⭐ Top Pick
 
 - **[Batchlisted](https://batchlisted.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-dofollow-backlink-directories)** · service · from $99 — Done-for-you submission to 100+ dofollow + nofollow directories. Hand-picked for highest authority. Founder-run, used by indie SaaS founders who would rather build product than chase backlinks.
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 
 ## Tier 1 — Top Authority (DR 60+)
 
