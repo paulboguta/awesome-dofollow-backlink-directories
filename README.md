@@ -44,6 +44,7 @@
 - **[Toolify](https://www.toolify.ai)** · DR 75 · dofollow · paid
 - **[EU-Startups](https://www.eu-startups.com)** · DA 67 · dofollow · free — EU-focused.
 - **[There's An AI For That](https://theresanaiforthat.com)** · DR 62 · dofollow · free + paid tier — Largest AI directory.
+- **[SaaSCity](https://saascity.io)** · DR 59 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
 - **[Tidy Repo](https://tidyrepo.com)** · DA 59 · dofollow · free
 - **[Startupxplore](https://startupxplore.com)** · DA 59 · dofollow · free
 - **[StartupBlink](https://www.startupblink.com)** · DA 56 · dofollow · free — Global startup map.
