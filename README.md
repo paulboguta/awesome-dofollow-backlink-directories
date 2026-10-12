@@ -97,6 +97,7 @@
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[Altimateguide](https://altimateguide.com/request-inclusion)** · dofollow · free + paid tier — Tools directory with a manual editorial review on every submission. The free listing's link is dofollow (kept while the verification artifact stays live); $14.99 one-time with no verification.
 
 ## How to Submit Efficiently
 
