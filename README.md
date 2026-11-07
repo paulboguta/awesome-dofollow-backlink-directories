@@ -97,6 +97,7 @@
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[We push your site to the World](https://wepushyoursitetotheworld.aplusz.app)** · dofollow · free — Free check + listing for any site, built for people and AI models (llms.txt, IndexNow, MCP). New (Nov 2026), DR not yet measured.
 
 ## How to Submit Efficiently
 
