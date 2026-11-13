@@ -35,6 +35,7 @@
 - **[AllTopStartups](https://alltopstartups.com)** · DA 72 · dofollow · free
 - **[BetaList](https://betalist.com)** · DR 67 · dofollow · free + paid tier — Pre-launch or recently-launched only.
 - **[AppSumo](https://appsumo.com)** · DR 61 · dofollow · free — Marketplace — partner approval required.
+- **[AIHuntList](https://aihuntlist.com)** · DR 61 · dofollow · free + paid tier — Navigation hub for 3,000+ AI apps across 200+ categories.
 - **[GoodFirms](https://www.goodfirms.co)** · DA 55 · dofollow · free + paid tier
 
 ## Tier 2 — Strong Authority (DR 30–59)
@@ -68,6 +69,7 @@
 - **[SaasGenius](https://www.saasgenius.com)** · DA 41 · dofollow · free
 - **[SoftwareWorld](https://www.softwareworld.co)** · DR 40 · dofollow · free
 - **[Landing Folio](https://www.landingfolio.com)** · DA 40 · dofollow · free
+- **[AITrustList](https://aitrustlist.com)** · DR 39 · dofollow · free + paid tier — AI tools directory ranked by verified traffic and growth.
 - **[No Code Tools Directory](https://www.nocode.tech)** · DA 38 · dofollow · free
 - **[Supertools](https://supertools.therundown.ai)** · DA 38 · dofollow · free — Part of The Rundown AI.
 - **[The Startup Pitch](https://thestartuppitch.com)** · DA 36 · dofollow · free
@@ -97,8 +99,6 @@
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
-- **[AITrustList](https://aitrustlist.com)** · dofollow · free + paid tier — AI tools directory ranked by verified traffic and growth.
-- **[AIHuntList](https://aihuntlist.com)** · dofollow · free + paid tier — Navigation hub for 3,000+ AI apps across 200+ categories.
 
 ## How to Submit Efficiently
 
