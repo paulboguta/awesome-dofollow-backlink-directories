@@ -4,7 +4,7 @@
 
 **Dofollow** backlinks pass authority. Nofollow links don't — at least not in the way SEOs traditionally bet on. This list filters the directory universe down to verified dofollow link sources, sorted by Domain Rating. If you want backlinks that move the needle on rankings, start here.
 
-**62 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
+**64 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
 
 ## Contents
 
@@ -97,6 +97,8 @@
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[AITrustList](https://aitrustlist.com)** · dofollow · free + paid tier — AI tools directory ranked by verified traffic and growth.
+- **[AIHuntList](https://aihuntlist.com)** · dofollow · free + paid tier — Navigation hub for 3,000+ AI apps across 200+ categories.
 
 ## How to Submit Efficiently
 
